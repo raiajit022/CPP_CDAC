@@ -4,10 +4,15 @@ CPP Assignments
 Student Record Management System
 
 #include <iostream>
+
 #include <vector>      // STL container
+
 #include <algorithm>   // for sort()
+
 #include <fstream>     // for file handling
+
 #include <typeinfo>    // for RTTI
+
 using namespace std;
 
 // Base class
